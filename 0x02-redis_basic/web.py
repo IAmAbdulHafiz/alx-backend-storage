@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-""" Implementing an expiring web cache and tracker """
+""" Redis """
 
 from functools import wraps
 import redis
